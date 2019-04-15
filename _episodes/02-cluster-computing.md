@@ -16,7 +16,7 @@ An example lesson for cluster computing can be found here: <a href="https://hpc-
 For this particular lesson, the contents need to be adapted for the use of SURFsara systems. SURFsara has two main cluster facilities: the national supercomputer Cartesius and the national compute cluster Lisa. As basic information, the way to access SURFsara via SSH using the following commands:
 
 ```
-ssh yourUsername@lisa.surfsara.nl    # access to Cartesius
+ssh yourUsername@cartesius.surfsara.nl    # access to Cartesius
 
 ssh yourUsername@lisa.surfsara.nl    # access to Lisa
 ```
